@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![url](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
 <!--
 **salihgueler/salihgueler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
