@@ -2,7 +2,7 @@
 
 Since you are here, here are some things that you might be curious about me:
 
-- 🗿 I am one of the early adapters of Flutter, it has been almost 3 years!
+- 🗿 I am one of the early adopters of Flutter, it has been almost 3 years!
 - 👨‍💻 I am a Google Developer Expert for Flutter and Dart
 - 🔭 I’m currently working as a Senior Mobile Developer with Flutter at Klar
 - 🤖 Previously I had 5+ years of Android development experience 
