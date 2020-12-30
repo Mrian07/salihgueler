@@ -4,7 +4,7 @@ Since you are here, here are some things that you might be curious about me:
 
 - 🗿 I am one of the early adopters of Flutter, it has been almost 3 years!
 - 👨‍💻 I am a Google Developer Expert for Flutter and Dart
-- 🔭 I’m currently working as a Senior Mobile Developer with Flutter at Klar
+- 🔭 I’m currently working as a Senior Mobile Developer with Flutter at Superlist
 - 🤖 Previously I had 5+ years of Android development experience 
 - 🌱 I’m currently learning SwiftUI and Jetpack Compose
 
@@ -23,7 +23,7 @@ Buraya kadar geldiğine göre hakkımda merak edebileceğin bilgiler şeylere ce
 
 - 🗿 Flutter'ı çok erken kullanmaya başlayan kişilerden biriyim. Neredeyse 3 yıl oldu (dile kolay)! 
 - 👨‍💻 Flutter ve Dart konusunda Google Developer Expert'im.
-- 🔭 Senior Mobile Developer olarak Klar adlı bir bankada Flutter ile uygulama geliştiriyorum
+- 🔭 Senior Mobile Developer olarak Superlist adlı bir bankada Flutter ile uygulama geliştiriyorum
 - 🤖 Öncesinde Native Android geliştirme ile ilgili 5 yıldan fazla bir tecrübem var.
 - 🌱 Şu anda boş vaktimde SwiftUI ve Jetpack Compose öğreniyorum.
 
